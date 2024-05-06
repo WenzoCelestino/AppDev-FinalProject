@@ -1,0 +1,44 @@
+a{
+  text-decoration: none;
+  color:black
+}
+
+ion-card {
+  --background: black;
+  --color: #ffffff;
+  width: 400px;
+  height: 400px;
+  
+}
+ion-card-title {
+  --color: #52ffe4;
+}
+
+ion-card-subtitle {
+  --color: #d1fff8;
+}
+
+.ion-text-wrap {
+  margin-left: auto;
+  max-width: 400px;
+}
+.card1{
+  align-self: center;
+  margin-top: 170px;
+  padding-left: 50px;
+  
+}
+.card2{
+  align-self: center;
+  margin-top: 70px;
+  padding-left: 50px;
+}
+.card3{
+  align-self: center;
+  margin-top: 70px;
+  padding-left: 50px;
+}
+.ioncards{
+  align-self: center;
+  
+}
